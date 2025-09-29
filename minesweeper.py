@@ -116,3 +116,4 @@ def find_bomb(r, c):
 
 
 root.mainloop()
+#HaiLam - 28/09/2025
